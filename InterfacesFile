@@ -1,0 +1,16 @@
+[
+    {
+        "name": "primaryVideoParseAPI",
+        "method": 0,
+        "interface": "https://json.vipjx.cnow.eu.org",
+        "includeVideoURL": true,
+        "parseMethod": 0
+    },
+    {
+        "name": "secondaryVideoParseAPI",
+        "method": 0,
+        "interface": "http://pandown.pro/app/kkdy.php",
+        "includeVideoURL": true,
+        "parseMethod": 0
+    }
+]
